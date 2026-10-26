@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Form Validation</string>
+
+    <string name="registration_eyebrow">TẠO TÀI KHOẢN</string>
+    <string name="registration_title">Đăng ký người dùng</string>
+    <string name="registration_subtitle">Nhập đầy đủ thông tin bên dưới để bắt đầu.</string>
+    <string name="label_full_name">Họ và tên</string>
+    <string name="label_email">Email</string>
+    <string name="label_password">Mật khẩu</string>
+    <string name="label_phone">Số điện thoại</string>
+    <string name="terms_agreement">Tôi đồng ý với điều khoản sử dụng</string>
+    <string name="button_register">Đăng ký</string>
+    <string name="button_cancel">Huỷ</string>
+
+    <string name="error_name_required">Vui lòng nhập họ và tên</string>
+    <string name="error_name_invalid">Họ và tên phải có ít nhất 2 từ</string>
+    <string name="error_email_required">Vui lòng nhập email</string>
+    <string name="error_email_invalid">Email không đúng định dạng</string>
+    <string name="error_password_required">Vui lòng nhập mật khẩu</string>
+    <string name="error_password_short">Mật khẩu phải có ít nhất 6 ký tự</string>
+    <string name="error_phone_required">Vui lòng nhập số điện thoại</string>
+    <string name="error_phone_invalid">Số điện thoại Việt Nam phải gồm 10 chữ số và bắt đầu bằng 03, 05, 07, 08 hoặc 09</string>
+    <string name="error_terms_required">Bạn cần đồng ý với điều khoản sử dụng</string>
+    <string name="error_form_invalid">Đăng ký thất bại. Vui lòng kiểm tra các trường được đánh dấu.</string>
+
+    <string name="home_eyebrow">ĐĂNG KÝ THÀNH CÔNG</string>
+    <string name="home_title">Chào mừng bạn!</string>
+    <string name="home_greeting">Xin chào, %1$s</string>
+    <string name="home_subtitle">Tài khoản của bạn đã được tạo với các thông tin sau:</string>
+    <string name="home_name_label">Họ và tên</string>
+    <string name="home_email_label">Email</string>
+    <string name="home_phone_label">Số điện thoại</string>
+    <string name="button_register_another">Đăng ký tài khoản khác</string>
+    <string name="error_user_missing">Không tìm thấy thông tin người dùng.</string>
+    <string name="action_back">Quay lại</string>
+</resources>
